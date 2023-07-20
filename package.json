@@ -5,8 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "serve": "next start -p 3000"
+    "start": "next start -p 3000"
   },
   "dependencies": {
     "@badrap/bar-of-progress": "^0.1.2",
